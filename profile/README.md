@@ -1,5 +1,5 @@
 
-                                                          Unleashing the power of blockchain for a better tomorrow.
+                                                    Unleashing the power of blockchain for a better tomorrow.
                                                             
 <p align = "center"> 
   <a href = "https://twitter.com/stashahq">
