@@ -3,10 +3,10 @@
                                                             
 <p align = "center"> 
   <a href = "https://twitter.com/stashahq">
-    <img src="twitternew.png" alt = "Twitter Icon">
+    <img src="https://raw.githubusercontent.com/stashaHq/.github/main/profile/twitternew.png" alt = "Twitter Icon">
   </a>
   <a href = "https://t.me/mystasha">
-    <img src="telegram.png" alt = "Telegram Icon">
+    <img src="[telegram.png](https://raw.githubusercontent.com/stashaHq/.github/main/profile/telegram.png)" alt = "Telegram Icon">
   </a>
 </p>
 
